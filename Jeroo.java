@@ -5,12 +5,13 @@
 public class Jeroo extends JerooBase {
     // Put your own methods here
    
-  
+public void() {
   this.turn(LEFT);
   this.turn(LEFT);
   this.hop();
   this.turn(LEFT);
   this.turn(LEFT);
+}
     
    
     // Do NOT touch the following code.
