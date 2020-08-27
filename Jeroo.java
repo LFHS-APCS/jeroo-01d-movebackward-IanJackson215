@@ -4,15 +4,15 @@
  */
 public class Jeroo extends JerooBase {
     // Put your own methods here
+   
+  
+  turn(LEFT);
+  turn(LEFT);
+  hop();
+  turn(LEFT);
+  turn(LEFT);
     
-    
-    
-    
-    
-    
-    
-    
-
+   
     // Do NOT touch the following code.
     public Jeroo() {super();}
 
